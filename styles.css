@@ -102,7 +102,7 @@ nav .buy-button {
   font-size: 8rem;
   line-height: 90%;
   font-family: 'Helvetica Neue', sans-serif;
-  font-weight: 700;
+  font-weight: 400;
   text-transform: uppercase;
   text-align: center;
   margin-top: 4rem;
@@ -113,6 +113,7 @@ nav .buy-button {
   text-align: center;
   margin-top: 2.4rem;
   font-family: 'Space Grotesk', sans-serif;
+  font-weight: 400;
 }
 
 .join-button {
@@ -169,6 +170,7 @@ nav .buy-button {
   font-size: 3.5rem;
   font-weight: bold;
   z-index: 2;
+  font-weight: 400;
 }
 
 /* Third Page Phone Split*/
@@ -184,7 +186,7 @@ nav .buy-button {
   font-size: 8rem;
   line-height: 90%;
   font-family: 'Helvetica Neue', sans-serif;
-  font-weight: 700;
+  font-weight: 400;
   text-transform: uppercase;
   text-align: center;
 }
@@ -194,6 +196,7 @@ nav .buy-button {
   text-align: center;
   margin-top: 2.4rem;
   font-family: 'Space Grotesk', sans-serif;
+  font-weight: 400;
   line-height: 130%;
 }
 
@@ -269,7 +272,7 @@ nav .buy-button {
   font-size: 4.8rem;
   line-height: 110%;
   font-family: 'Helvetica Neue', sans-serif;
-  font-weight: 700;
+  font-weight: 400;
   text-transform: uppercase;
   padding-top: 8rem;
   text-align: center;
@@ -314,6 +317,7 @@ nav .buy-button {
 
 .swatch-container p {
   font-family: 'Space Grotesk', sans-serif;
+  font-weight: 400;
   line-height: 130%;
 }
 
@@ -410,6 +414,7 @@ nav .buy-button {
 .right-info h3 {
   padding: 3rem 0rem;
   color: #c1c1c1;
+  font-weight: 400;
 }
 
 .left-info span,
@@ -418,6 +423,7 @@ nav .buy-button {
   color: #d2d2d2;
   text-transform: uppercase;
   line-height: 110%;
+  font-weight: 400;
 }
 
 .spacer {
@@ -448,7 +454,7 @@ nav .buy-button {
   font-size: 8rem;
   line-height: 90%;
   font-family: 'Helvetica Neue', sans-serif;
-  font-weight: 700;
+  font-weight: 400;
   text-transform: uppercase;
   text-align: center;
 }
@@ -525,6 +531,7 @@ nav .buy-button {
 .sixth-page p {
   color: #f2f2f2;
   font-family: 'Space Grotesk', sans-serif;
+  font-weight: 400;
   line-height: 130%;
 }
 
@@ -563,14 +570,16 @@ nav .buy-button {
 }
 
 .photo-title {
-  font-size: 4rem;
+  font-size: 3.2rem;
   padding-top: 4rem;
   text-transform: uppercase;
+  font-weight: 400;
 }
 
 .photo-subtitle {
-  font-size: 4rem;
+  font-size: 3.2rem;
   text-transform: uppercase;
+  font-weight: 400;
 }
 
 .portrait-container {
@@ -635,7 +644,6 @@ nav .buy-button {
   .first-page .first-page-text .first-page-title {
     font-size: 6.4rem;
     font-family: 'Helvetica Neue', sans-serif;
-    font-weight: 700;
     text-transform: uppercase;
     text-align: center;
     margin-top: 8rem;
@@ -721,7 +729,6 @@ nav .buy-button {
     font-size: 4.8rem;
     line-height: 110%;
     font-family: 'Helvetica Neue', sans-serif;
-    font-weight: 700;
     text-transform: uppercase;
     text-align: center;
     padding: 0rem 2.4rem;
@@ -777,7 +784,6 @@ nav .buy-button {
     font-size: 4rem;
     line-height: 90%;
     font-family: 'Helvetica Neue', sans-serif;
-    font-weight: 700;
     text-transform: uppercase;
     text-align: center;
   }
@@ -855,7 +861,6 @@ nav .buy-button {
     font-size: 2.4rem;
     line-height: 110%;
     font-family: 'Helvetica Neue', sans-serif;
-    font-weight: 700;
     text-transform: uppercase;
     padding-top: 8rem;
     text-align: center;
@@ -1013,7 +1018,6 @@ nav .buy-button {
     font-size: 5.6rem;
     line-height: 110%;
     font-family: 'Helvetica Neue', sans-serif;
-    font-weight: 700;
     text-transform: uppercase;
     text-align: center;
   }
@@ -1098,6 +1102,7 @@ nav .buy-button {
     background: transparent;
     border-radius: 1.6rem;
     border: 1px solid white;
+    font-weight: 400;
   }
   .sixth-page .copyright {
     padding-top: 8rem;
@@ -1151,7 +1156,6 @@ nav .buy-button {
     font-size: 4rem;
     line-height: 110%;
     font-family: 'Helvetica Neue', sans-serif;
-    font-weight: 700;
     text-transform: uppercase;
     text-align: center;
     padding: 0rem 2rem;
@@ -1187,7 +1191,6 @@ nav .buy-button {
     font-size: 4rem;
     line-height: 110%;
     font-family: 'Helvetica Neue', sans-serif;
-    font-weight: 700;
     text-transform: uppercase;
     text-align: center;
     padding: 0rem 2rem;
