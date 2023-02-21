@@ -105,7 +105,7 @@ nav .buy-button {
   font-weight: 400;
   text-transform: uppercase;
   text-align: center;
-  margin-top: 4rem;
+  margin-top: 8rem;
 }
 
 .first-page .first-page-text .first-page-subtitle {
@@ -167,10 +167,9 @@ nav .buy-button {
 .second-text {
   padding: 5% 30%;
   position: relative;
-  font-size: 3.5rem;
+  font-size: 4rem;
   font-weight: bold;
   z-index: 2;
-  font-weight: 400;
 }
 
 /* Third Page Phone Split*/
