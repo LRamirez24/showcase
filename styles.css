@@ -554,6 +554,17 @@ nav .buy-button {
   border-radius: 1.6rem;
   border: 1px solid white;
   cursor: pointer;
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+
+.sixth-page .contact-buttons button:hover {
+  background-color: #f2f2f2;
+  color: black;
+  -webkit-transform: scale(0.99, 0.99);
+          transform: scale(0.99, 0.99);
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
 }
 
 .sixth-page .copyright {

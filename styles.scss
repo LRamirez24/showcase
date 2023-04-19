@@ -484,6 +484,13 @@
         border-radius: 1.6rem;
         border: 1px solid white;
         cursor: pointer;
+        transition: all 0.4s ease-in-out;
+        &:hover{
+          background-color: #f2f2f2;
+          color: black;
+          transform:  scale(0.99, 0.99);
+            transition: all 0.4s ease-in-out;
+        }
       }
     }
     
@@ -493,6 +500,10 @@
     //  bottom: -200px;
     }
   }
+
+
+  // Phone
+
 
   .portrait {
     height: 70vh;
@@ -553,6 +564,8 @@
     transform: scale(0.82);
     border-radius: 2rem;
   }
+
+
 
 
   // Responsiveness 
